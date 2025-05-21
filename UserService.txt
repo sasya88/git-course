@@ -1,3 +1,2 @@
 get the user data
 process the user data
-get related information for particular user
